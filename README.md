@@ -2,7 +2,7 @@
 
 ## About BudgetMate- Personal Finance Management App
 
-BudgetMate is a smart and intuitive personal finance management app designed to help users track their expenses, set budgets, and gain financial insights. Whether you're managing daily expenses or planning for long-term financial goals, BudgetMate provides a seamless experience with powerful analytics and easy-to-use tools.
+BudgetMate is a personal finance management app designed to help users track their expenses, set budgets, and gain financial insights. Whether you're managing daily expenses or planning for long-term financial goals, BudgetMate provides a user friendly experience with analytics and easy-to-use tools.
 
 Key Features
 - 📊 Expense Tracking – Log and categorize your daily transactions effortlessly.
