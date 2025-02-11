@@ -1,25 +1,17 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="budgetmate.png" width="400" alt="Budgetmate Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## About BudgetMate- Personal Finance Management App
 
-## About Laravel
+BudgetMate is a smart and intuitive personal finance management app designed to help users track their expenses, set budgets, and gain financial insights. Whether you're managing daily expenses or planning for long-term financial goals, BudgetMate provides a seamless experience with powerful analytics and easy-to-use tools.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Key Features
+📊 Expense Tracking – Log and categorize your daily transactions effortlessly.
+💰 Budget Management – Set monthly budgets and track your spending habits.
+🔍 Financial Insights – Get detailed reports and charts to analyze your expenses.
+🔒 Secure & Private – Your financial data is encrypted for maximum security.
+🌍 Multi-Device Access – Sync data across multiple devices for seamless tracking.
+BudgetMate empowers users to take control of their finances and make smarter money decisions. 🚀
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
